@@ -1,1 +1,0 @@
-# exercicios-backend-variaveis-cubos-academy
